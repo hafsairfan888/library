@@ -8,15 +8,16 @@ export default function Navigation() {
     <div>
     <header className='header'>
       <div className="logo">
-       <h2 className="website--title">
-        <img 
-        src={Logo} 
-        alt="HGS Logo"
-        style={{ width: "50px", height: "auto" }}
-        />
-        HGS LIBRARY<p style={{ fontSize: "7px"}}>By Hafsa</p>
-       </h2>
+        <h2 className="website--title" style={{ display: "flex", alignItems: "center" }}>
+          <img 
+            src={Logo} 
+            alt="HGS Logo"
+            style={{ width: "50px", height: "auto", marginRight: "10px" }}
+          />
+          HGS LIBRARY
+        </h2>
       </div>
+
       <div className="navigation">
         <input type="checkbox" className="toggle-menu"  />
         <div className="hamburger"></div>
