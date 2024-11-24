@@ -7,11 +7,12 @@ export default function Navbar() {
     <div className="hero">
       <Navigation />
       <div className="homepage--texts">
-      <h1 className="nav--text">A WORLD IN PAGES</h1>
+      <h1 className="nav--text">WELCOME TO HGS LIBRARY!</h1>
       <p className="nav--para">
-        Embark on a literary journey where every click reveals a new chapter,
-        and every story awaits its avid reader. Welcome to the world of ebooks,
-        where dreams come alive on every page.
+        Here, you'll find a vast collection of books, inspiring authors, 
+        and thought-provoking quotes, all designed to enrich your learning journey. 
+        Whether you're looking for academic resources or motivational reads, our eLibrary 
+        has something for every student. Explore, learn, and let your imagination soar!
       </p>
       <p className="nav--subpara">Coded with hate, love & pani puri by Nagraj</p>
       </div>
