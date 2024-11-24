@@ -50,8 +50,8 @@ export default function Footer() {
         </a>
       </div>
       <div className="footer-para">
-      Coded & developed completely                                                        by{" "}
-        <Link to="/aboutme" className="footer--name--link">Nagraj Tadingi</Link>
+        Made by{" "}
+        <Link to="/aboutme" className="footer--name--link">Hafsa</Link>
       </div>
     </footer>
   );
