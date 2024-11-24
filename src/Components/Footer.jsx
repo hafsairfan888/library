@@ -59,8 +59,8 @@ export default function Footer() {
         </a>
       </div>
       <div className="footer-para">
-        Made by{" "}
-        <Link to="/aboutme" className="footer--name--link">Hafsa</Link>
+        ©{" "}
+        <Link to="https://github.com/hafsairfan888" className="footer--name--link">Habib Girls' School</Link>
       </div>
     </footer>
   );
