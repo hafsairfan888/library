@@ -12,9 +12,8 @@ export default function Navigation() {
         <img 
         src={Logo} 
         alt="HGS Logo"
-        style={{ width: "100px", height: "auto" }}
-        /> 
-       📚 HAFSA'S LIBRARY
+        style={{ width: "200px", height: "auto" }}
+        />
        </h2>
       </div>
       <div className="navigation">
