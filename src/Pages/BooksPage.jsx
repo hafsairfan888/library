@@ -29,7 +29,9 @@ export default function BooksPage() {
     <div>
       <Navigation />
       <h2 className="bookspage--title">
-        From Page to Page: Unveiling a Kaleidoscope of Literary Delights
+        Explore a world of stories and knowledge with our diverse collection of books. 
+        From timeless classics to contemporary gems, find resources to inspire, educate, 
+        and entertain. Start your journey of discovery today!
       </h2>
       <SearchBar
         data={booksdata}
