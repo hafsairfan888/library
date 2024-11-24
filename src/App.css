@@ -330,7 +330,7 @@ background: #5f0c0c
   text-decoration: none;
 }
 .footer--name--link:hover{
-  color: #ea1538;
+  color: #891919;
 }
 .footer {
   display: flex;
@@ -369,7 +369,7 @@ background: #5f0c0c
   top: -10px;
 }
 .linkedin-link:hover {
-  background-color: #0a66c2;
+  background-color: #891919;
 }
 .linkedin-link {
   position: relative;
@@ -379,7 +379,7 @@ background: #5f0c0c
   top: -10px;
 }
 .twitter-link:hover {
-  background-color: #1da1f2;
+  background-color: #891919;
 }
 .twitter-link {
   position: relative;
