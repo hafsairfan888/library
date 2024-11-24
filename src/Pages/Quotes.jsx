@@ -42,7 +42,6 @@ export default function Quotes() {
       <Navigation />
       <div className="quotespage--container">
         <h1 className="quotes--heading">
-          QUOTES THAT INSPIRE
         </h1>
         <div className="quotes--home">
           {shuffledQuotes.map((lines) => (
