@@ -36,7 +36,7 @@ export default function Navigation() {
             <Link to="/quotes">QUOTES</Link>
           </li>
           <li>
-            <Link to="">↩ Back To Dashboard</Link>
+            <Link to="">↩ BACK TO LMS</Link>
           </li>
           </ul>
       </div>
