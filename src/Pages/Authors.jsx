@@ -8,9 +8,9 @@ export default function Authors() {
   return (
     <div>
       <Navigation />
-      <h2 className="authors--title">Meet the minds behind the masterpieces! Discover the lives and works 
+      <h3 className="authors--title">Meet the minds behind the masterpieces! Discover the lives and works 
         of authors who have shaped literature, sparked ideas, and shared their unique perspectives with 
-        the world. Let their words inspire yours.</h2>
+        the world. Let their words inspire yours.</h3>
       <div className="container">
         {authorsData.map((author) => (
           <Link key={author.id} to={`/author/${author.id}`}>
