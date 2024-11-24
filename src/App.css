@@ -324,7 +324,7 @@ html,
 }
 /* Footer css */
 .footer--name--link {
-  color: white;
+  color: #ffffff;
   text-decoration: none;
 }
 .footer--name--link:hover{
@@ -332,7 +332,7 @@ html,
 }
 .footer {
   display: flex;
-  color: white
+  color: #ffffff
   background: linear-gradient(90deg, #091e3c , #000000);
   flex-direction: column;
   text-align: center;
