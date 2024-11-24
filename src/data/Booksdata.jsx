@@ -119,6 +119,7 @@ import reminder from "../assets/bookcovers/reminders of him.jpg";
 import alittlelife from "../assets/bookcovers/a little life.jpg"
 import toparadise from "../assets/bookcovers/to paradise.jpg"
 import fourthwing from "../assets/bookcovers/fourthwing.jpg"
+import thistimeitsreal from "../assets/bookcovers/This time its real.jpg"
 
 export default [
   {
@@ -1450,6 +1451,17 @@ export default [
     genre: "Contemporary",
     pages: 515,
     rating:"4.2" ,    
+    year: "2023",
+  },
+  {
+    id:122,
+    img: thistimeitsreal,
+    title: "This Time It's Real",
+    value: "This Time It's Real",
+    author: "Ann Liang",
+    genre: "Contemporary",
+    pages: 352,
+    rating:"4.0" ,    
     year: "2023",
   },
 ];
