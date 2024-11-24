@@ -6,6 +6,11 @@ export default function Navigation() {
     <header className='header'>
       <div className="logo">
        <h2 className="website--title">
+        <img 
+        src="/images/icon.png" 
+        alt="Star Icon" 
+        style={{ width: "20px", height: "20px", verticalAlign: "middle" }} 
+        /> 
        📚 HAFSA'S LIBRARY
        </h2>
       </div>
