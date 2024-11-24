@@ -42,7 +42,9 @@ export default function Quotes() {
       <Navigation />
       <div className="quotespage--container">
         <h1 className="quotes--heading">
-          Quill&apos;s Symphony: Inspiring Quotes from the Ink of Authors
+          One line can change your day, your perspective, or even your life. 
+          Dive into a treasure trove of powerful quotes that motivate, uplift, 
+          and challenge you to think deeper. Find your inspiration here!
         </h1>
         <div className="quotes--home">
           {shuffledQuotes.map((lines) => (
