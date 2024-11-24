@@ -332,7 +332,7 @@ html,
 }
 .footer {
   display: flex;
-  color: #ffffff
+  color: #ffffff;
   background: linear-gradient(90deg, #091e3c , #000000);
   flex-direction: column;
   text-align: center;
