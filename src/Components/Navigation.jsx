@@ -17,9 +17,6 @@ export default function Navigation() {
             <Link to="/">HOME</Link>
           </li>
           <li>
-            <Link to="/overview">MAP</Link>
-          </li>
-          <li>
             <Link to="/books">BOOKS</Link>
           </li>
           <li>
@@ -27,12 +24,6 @@ export default function Navigation() {
           </li>
           <li>
             <Link to="/quotes">QUOTES</Link>
-          </li>
-          <li>
-            <Link to="/aboutme">ABOUT</Link>
-          </li>
-          <li>
-            <Link to="/contact">CONTACT</Link>
           </li>
           </ul>
       </div>
