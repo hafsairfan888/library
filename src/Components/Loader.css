@@ -4,7 +4,7 @@
   align-items: center;
   width: 100%;
   height: 100vh;
-  background: linear-gradient(90deg, #091e3c, #000000);
+  background: #5f0c0c;
 }
 .planet {
   display: block;
