@@ -27,7 +27,7 @@ export default function Footer() {
         </a>
         <div className="footer-divider"></div>
         <a 
-          href="https://github.com/hafsairfan888"
+          href="https://github.com/hafsairfan888/library"
           target="_blank"
           rel="noopener noreferrer"
           >
@@ -59,7 +59,7 @@ export default function Footer() {
         </a>
       </div>
       <div className="footer-para">
-        ©{" "}
+        {" "}
         <Link to="https://github.com/hafsairfan888" className="footer--name--link">Habib Girls' School</Link>
       </div>
     </footer>
