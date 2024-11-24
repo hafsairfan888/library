@@ -14,6 +14,7 @@ export default function Navigation() {
         alt="HGS Logo"
         style={{ width: "20px", height: "auto" }}
         />
+        HGS LIBRARY<p style={{ fontSize: "7px"}}>By Hafsa</p>
        </h2>
       </div>
       <div className="navigation">
