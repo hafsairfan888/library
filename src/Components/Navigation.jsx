@@ -15,7 +15,6 @@ export default function Navigation() {
             style={{ width: "50px", height: "auto", marginRight: "10px" }}
           />
           HGS LIBRARY
-          <span style={{ fontSize: "10px", marginLeft: "5px" }}>by Hafsa</span>
         </h2>
       </div>
 
