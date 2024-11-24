@@ -340,6 +340,7 @@ html,
 .social--icons {
   display: flex;
   justify-content: center;
+  filter: invert(1);
 }
 .social-link {
   width: 30px;
