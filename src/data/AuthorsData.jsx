@@ -25,6 +25,7 @@ import kiyo from "../assets/authorimages/kiyo.jpg";
 import bronte from "../assets/authorimages/emily.jpg";
 import kafka from "../assets/authorimages/franz.jpg";
 import shakespeare from "../assets/authorimages/Shakespeare.jpg";
+import annliang from "../assets/authorimages/annliang.jpg";
 import none from "../assets/bookcovers/none.jpg";
 import murder from "../assets/bookcovers/orient.jpg";
 import myst from "../assets/bookcovers/mysterious.jpg";
@@ -156,6 +157,7 @@ import alittlelife from "../assets/bookcovers/a little life.jpg";
 import toparadise from "../assets/bookcovers/to paradise.jpg";
 import rebeccayarros from "../assets/authorimages/rebeccayarros.jpg";
 import fourthwing from "../assets/bookcovers/fourthwing.jpg";
+import thistimeitsreal from "../assets/bookcovers/This time its real.jpg";
 
 const authorsData = [
   /*-------------------------- */
@@ -1879,6 +1881,31 @@ const authorsData = [
     ],
     description:
       "Captivating author blending romance, adventure, and emotional depth in stories.",
+  },
+  /*-------------------------- */
+  /*                           */
+  /*        Ann Liang          */
+  /*                           */
+  /*-------------------------- */
+  {
+    id: 36,
+    img: annliang,
+    name: "Ann Liang",
+    books: [
+      {
+        id: 1,
+        img: This time its real,
+        title: "This Time It's Real",
+        value: "This Time It's Real",
+        author: "Ann Liang",
+        genre: "Contemporary",
+        pages: 352,
+        rating: "4.0",
+        year: "2023",
+      },
+    ],
+    description:
+      "A talented storyteller weaving heartfelt tales of love, identity, and self-discovery that resonate with readers worldwide.",
   },
 ];
 
