@@ -42,9 +42,7 @@ export default function Quotes() {
       <Navigation />
       <div className="quotespage--container">
         <h1 className="quotes--heading">
-          One line can change your day, your perspective, or even your life. 
-          Dive into a treasure trove of powerful quotes that motivate, uplift, 
-          and challenge you to think deeper. Find your inspiration here!
+          QUOTES THAT INSPIRE
         </h1>
         <div className="quotes--home">
           {shuffledQuotes.map((lines) => (
