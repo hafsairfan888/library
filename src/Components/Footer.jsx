@@ -60,7 +60,7 @@ export default function Footer() {
       </div>
       <div className="footer-para">
         {" "}
-        <Link to="https://github.com/hafsairfan888" className="footer--name--link">Habib Girls' School</Link>
+        <Link to="https://habibschools.edu.pk/hgs/" className="footer--name--link">Habib Girls' School</Link>
       </div>
     </footer>
   );
