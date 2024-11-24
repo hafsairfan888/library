@@ -11,7 +11,7 @@ export default function Footer() {
   }, []);
 
   return (
-    <footer className="footer" style={{ backgroundColor: "#777777" }}>
+    <footer className="footer" style={{ backgroundColor: "#5f0c0c" }}>
       <div className="social--icons">
         <a
           href="https://www.instagram.com/thatguywithabook"
