@@ -1,5 +1,6 @@
 import { Link as Link } from "react-router-dom";
-import Logo from "./assets/icons/HGS-Logo.svg";
+import Instagram from "../assets/icons/instagram.png";
+import Logo from "../assets/icons/HGS-Logo.svg";
 
 export default function Navigation() {
   
