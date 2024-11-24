@@ -1,4 +1,6 @@
 import { Link as Link } from "react-router-dom";
+import Logo from "./assets/icons/HGS-Logo.svg";
+
 export default function Navigation() {
   
   return (
@@ -7,8 +9,8 @@ export default function Navigation() {
       <div className="logo">
        <h2 className="website--title">
         <img 
-        src="/images/icon.png" 
-        alt="Star Icon" 
+        src={Logo} 
+        alt="HGS Logo"
         style={{ width: "20px", height: "20px", verticalAlign: "middle" }} 
         /> 
        📚 HAFSA'S LIBRARY
