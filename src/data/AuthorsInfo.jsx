@@ -33,6 +33,7 @@ import Taylor from "../assets/authorimages/Taylor Jenkins Reid.jpg";
 import liu from "../assets/authorimages/liu.jpg";
 import hanya from "../assets/authorimages/hanya.jpg";
 import rebeccayarros from "../assets/authorimages/rebeccayarros.jpg";
+import annliang from "../assets/authorimages/annliang.jpg";
 
 const AuthorInfo = [
   {
@@ -432,6 +433,17 @@ const AuthorInfo = [
     genre: "Contemporary, Fantasy, Romance",
     influences: "",
     about: `A contemporary romance author, weaves heartfelt stories that resonate with readers' emotions. Her compelling narratives and well-drawn characters create a powerful connection, making each book an immersive journey. Through her writing, Yarros invites us to explore love, resilience, and the beauty of second chances.`,
+  },
+  {
+    id: 36,
+    img: annliang,
+    name: "Ann Liang",
+    born: "Shanghai, China. October 1, 1999",
+    died: "",
+    website: "https://www.annliang.com/",
+    genre: "Young Adult, Contemporary Fiction",
+    influences: "",
+    about: `Ann Liang is a rising star in young adult fiction, celebrated for her heartfelt and relatable storytelling. Her works often explore themes of identity, family, and self-discovery, resonating deeply with readers around the globe. With her captivating debut, "If You Could See the Sun," Ann has established herself as a fresh and powerful voice in contemporary literature.`,
   },
 ];
 export default AuthorInfo;
