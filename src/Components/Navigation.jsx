@@ -25,6 +25,9 @@ export default function Navigation() {
           <li>
             <Link to="/quotes">QUOTES</Link>
           </li>
+          <li>
+            <Link to="">↩ Back To Dashboard</Link>
+          </li>
           </ul>
       </div>
     </header>
