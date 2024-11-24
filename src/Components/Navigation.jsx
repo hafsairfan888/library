@@ -12,7 +12,7 @@ export default function Navigation() {
         <img 
         src={Logo} 
         alt="HGS Logo"
-        style={{ width: "200px", height: "auto" }}
+        style={{ width: "20px", height: "auto" }}
         />
        </h2>
       </div>
