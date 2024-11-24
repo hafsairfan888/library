@@ -44,7 +44,7 @@ background: #5f0c0c
   font-weight: 300;
   font-size: 24px;
   max-width: 600px;
-  color: gray;
+  color: white;
   align-items: center;
   margin: -140px 135px;
 }
@@ -65,7 +65,7 @@ background: #5f0c0c
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: linear-gradient(90deg, #091e3c, #000000);
+  background: #5f0c0c /*linear-gradient(90deg, #091e3c, #000000)*/;
   transition: 0.3s;
   padding-top: 20px;
   padding-left: 10%;
