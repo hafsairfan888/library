@@ -35,7 +35,7 @@ export default function Navigation() {
             <Link to="/quotes">QUOTES</Link>
           </li>
           <li>
-            <Link to="">↩ BACK TO LMS</Link>
+            <Link to="https://habibschools.edu.pk/hgs/">↩ BACK TO LMS</Link>
           </li>
           </ul>
       </div>
