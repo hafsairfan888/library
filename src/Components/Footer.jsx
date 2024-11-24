@@ -2,6 +2,7 @@ import Twitter from "../assets/icons/tweet.png";
 import Linkedin from "../assets/icons/linkedin.png";
 import Instagram from "../assets/icons/instagram.png";
 import Github from "../assets/icons/github.png";
+import Facebook from "../assets/icons/facebook.png";
 import { Link as Link } from "react-router-dom";
 import { useEffect } from "react";
 
@@ -14,7 +15,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="social--icons">
         <a
-          href="https://www.instagram.com/thatguywithabook"
+          href="https://www.instagram.com/habibgirlsschool_official/?igshid=YmMyMTA2M2Y%3D"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -26,7 +27,7 @@ export default function Footer() {
         </a>
         <div className="footer-divider"></div>
         <a 
-          href="https://www.github.com/nagraj05"
+          href="https://github.com/hafsairfan888"
           target="_blank"
           rel="noopener noreferrer"
           >
@@ -34,7 +35,7 @@ export default function Footer() {
         </a>
         <div className="footer-divider"></div>
         <a 
-          href="https://www.linkedin.com"
+          href="https://www.linkedin.com/company/habibgirlsschoolofficial"
           target="_blank"
           rel="noopener noreferrer"
           >
@@ -42,11 +43,19 @@ export default function Footer() {
         </a>
         <div className="footer-divider"></div>
         <a 
-          href="https://www.twitter.com/StudyingQuakes"
+          href="https://twitter.com/HGSKarachi"
           target="_blank"
           rel="noopener noreferrer"
           >
           <img src={Twitter} alt="Twitter" className="social-link twitter-link" />
+        </a>
+        <div className="footer-divider"></div>
+        <a 
+          href="https://www.facebook.com/HabibGirlsSchoolOfficial"
+          target="_blank"
+          rel="noopener noreferrer"
+          >
+          <img src={Facebook} alt="Facebook" className="social-link twitter-link" />
         </a>
       </div>
       <div className="footer-para">
