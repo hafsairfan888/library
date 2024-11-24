@@ -6,7 +6,7 @@ export default function Navigation() {
     <header className='header'>
       <div className="logo">
        <h2 className="website--title">
-       📚 FICTIONERS
+       📚 HAFSA'S LIBRARY
        </h2>
       </div>
       <div className="navigation">
