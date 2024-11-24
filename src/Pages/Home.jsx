@@ -27,6 +27,9 @@ function Home() {
   return (
     <div className="homepage--container">
       <Navbar />
+      <div className="booksbox">{bookElements}</div>
+      <div className="challenge">
+      </div>
       <div className="wordscloud"></div>
       <ButtonToTop />
       <Footer />
