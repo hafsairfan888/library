@@ -2,7 +2,7 @@ import Twitter from "../assets/icons/tweet.png";
 import Linkedin from "../assets/icons/linkedin.png";
 import Instagram from "../assets/icons/instagram.png";
 import Github from "../assets/icons/github.png";
-import Facebook from "../assets/icons/facebook.png";
+import Facebook from "../assets/icons/pngwing.com.png";
 import { Link as Link } from "react-router-dom";
 import { useEffect } from "react";
 
