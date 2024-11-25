@@ -1894,7 +1894,7 @@ const authorsData = [
     books: [
       {
         id: 1,
-        img: This time its real,
+        img: thistimeitsreal,
         title: "This Time It's Real",
         value: "This Time It's Real",
         author: "Ann Liang",
