@@ -1457,7 +1457,7 @@ export default [
     id:122,
     img: thistimeitsreal,
     title: "This Time It's Real",
-    value: "This Time Its Real",
+    value: "This time its real",
     author: "Ann Liang",
     genre: "Contemporary",
     pages: 352,
