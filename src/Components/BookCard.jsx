@@ -3,7 +3,7 @@ import tag from "../assets/icons/tag.png";
 
 export default function BookCard(props) {
   function handleDownload() {
-    const ebookPath = `/books/${props.data.value}.epub`;
+    const ebookPath = `/books/${props.data.value}.pdf`;
     window.open(ebookPath, "_blank");
   }
   return (
