@@ -119,7 +119,7 @@ import reminder from "../assets/bookcovers/reminders of him.jpg";
 import alittlelife from "../assets/bookcovers/a little life.jpg"
 import toparadise from "../assets/bookcovers/to paradise.jpg"
 import fourthwing from "../assets/bookcovers/fourthwing.jpg"
-import thistimeitsreal from "../assets/bookcovers/This time its real.jpg"
+import thistimeitsreal from "../assets/bookcovers/thistimeitsreal.jpg"
 
 export default [
   {
@@ -1457,7 +1457,7 @@ export default [
     id:122,
     img: thistimeitsreal,
     title: "This Time It's Real",
-    value: "This time its real",
+    value: "thistimeitsreal",
     author: "Ann Liang",
     genre: "Contemporary",
     pages: 352,
