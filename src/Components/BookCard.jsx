@@ -36,3 +36,4 @@ BookCard.propTypes = {
     pages: PropTypes.number,
   }),
 };
+ 
