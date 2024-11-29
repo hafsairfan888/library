@@ -157,7 +157,7 @@ import alittlelife from "../assets/bookcovers/a little life.jpg";
 import toparadise from "../assets/bookcovers/to paradise.jpg";
 import rebeccayarros from "../assets/authorimages/rebeccayarros.jpg";
 import fourthwing from "../assets/bookcovers/fourthwing.jpg";
-import thistimeitsreal from "../assets/bookcovers/This time its real.jpg";
+import thistimeitsreal from "../assets/bookcovers/thistimeitsreal.jpg";
 
 const authorsData = [
   /*-------------------------- */
