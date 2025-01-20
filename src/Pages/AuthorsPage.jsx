@@ -14,7 +14,7 @@ export default function AuthorPage() {
   }, []);
 
   function handleDownload(bookValue) {
-    const ebookPath = `/books/${bookValue}.epub`;
+    const ebookPath = `/books/${bookValue}.pdf`;
     window.open(ebookPath, "_blank");
     setSelectedBook(bookValue);
   }
