@@ -1013,7 +1013,11 @@ const authorsData = [
   /*       Axie Oh             */
   /*                           */
   /*-------------------------- */
-
+  {
+    id: 16,
+    img: axieoh,
+    name: "Axie Oh",
+    books: [
   {
     id: 96,
     img: xoxo,
