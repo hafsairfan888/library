@@ -96,7 +96,7 @@ import reasons from "../assets/bookcovers/13reasons.jpg";
 import monk from "../assets/bookcovers/monk.jpg";
 import xoxo from "../assets/bookcovers/XOXO.jpg";
 import asap from "../assets/bookcovers/ASAP.jpg";
-import girlbeneathsea from "../assets/bookcovers/The Girl Who Fell Beneath the Sea.jpg";
+import girlbeneathsea from "../assets/bookcovers/TheGirlWhoFellBeneaththeSea.jpg";
 import brida from "../assets/bookcovers/brida.jpg";
 import alchemist from "../assets/bookcovers/alchemist.jpg";
 import eleven from "../assets/bookcovers/eleven.jpg";
