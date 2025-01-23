@@ -50,7 +50,7 @@ import itends from "../assets/bookcovers/it ends with us.jpg";
 import ugly from "../assets/bookcovers/ugly.jpg";
 import reminder from "../assets/bookcovers/reminders of him.jpg";
 import xoxo from "../assets/bookcovers/xoxo.jpg";
-import asap from "../assets/bookcovers/asap.jpg";
+import asap from "../assets/bookcovers/asap.png";
 import thegirlwhofellbeneaththesea from "../assets/bookcovers/thegirlwhofellbeneaththesea.jpg";
 import macbeth from "../assets/bookcovers/macbeth.jpg";
 import romeo from "../assets/bookcovers/romeo.jpg";
