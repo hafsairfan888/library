@@ -14,7 +14,7 @@ import green from "../assets/authorimages/johngreen.jpg";
 import robin from "../assets/authorimages/rs.jpg";
 import randall from "../assets/authorimages/randall.webp";
 import hoover from "../assets/authorimages/Colleenhoover.webp";
-import eljames from "../assets/authorimages/El james.webp";
+import axieoh from "../assets/authorimages/Axie Oh.jpg";
 import paulo from "../assets/authorimages/paulo.jpg";
 import harper from "../assets/authorimages/harper.jpg";
 import hawking from "../assets/authorimages/hawking.jpg";
@@ -247,17 +247,17 @@ const AuthorInfo = [
     influences: "",
     about: `A prolific contemporary romance author, has captured the hearts of readers with her emotionally charged narratives and complex characters. Her compelling storytelling and ability to delve into raw human emotions have made her novels, such as "It Ends with Us" and "Confess," bestsellers and fan favorites. Hoover's unique blend of romance, heartbreak, and redemption resonates deeply, leaving a lasting impact on her readers.`,
   },
-  {
-    id: 16,
-    img: eljames,
-    name: "E.L. James",
-    born: "London, The United Kingdom. March 7, 1963 ",
-    died: "",
-    website: "http://www.eljamesauthor.com",
-    genre: "Romance",
-    influences: "",
-    about: `A bestselling British author, skyrocketed to fame with her erotic romance trilogy "Fifty Shades of Grey." Her provocative storytelling and exploration of taboo themes captivated readers and sparked widespread discussion. James's books became a cultural phenomenon, solidifying her place as a prominent figure in contemporary literature.`,
-  },
+{
+  id: 16,
+  img: axieoh,
+  name: "Axie Oh",
+  born: "New Jersey, USA. December 30, 1994",
+  died: "",
+  website: "http://www.axieoh.com/",
+  genre: "Young Adult, Fantasy, Romance",
+  influences: "Korean mythology, Studio Ghibli, Family heritage",
+  about: `Axie Oh is a renowned author of young adult fiction, known for weaving rich cultural heritage and enchanting narratives into her stories. With works like "XOXO" and "The Girl Who Fell Beneath the Sea," she brings heartfelt characters and fantastical worlds to life, capturing the imagination of readers worldwide. Drawing inspiration from Korean mythology and her personal experiences, Axie creates stories that celebrate love, identity, and the power of storytelling.`,
+},
   {
     id: 17,
     img: paulo,
