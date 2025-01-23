@@ -1185,7 +1185,7 @@ export default [
     value: "asap",
     author: "Axie Oh",
     genre: "Romance",
-    pages: "",
+    pages: 352,
     rating: "",
     year: "",
   },
