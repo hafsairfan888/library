@@ -1010,47 +1010,46 @@ const authorsData = [
   },
   /*-------------------------- */
   /*                           */
-  /*       ELJames             */
+  /*       Axie Oh             */
   /*                           */
   /*-------------------------- */
+
   {
-    id: 16,
-    img: eljames,
-    name: "E.L. James",
-    books: [
-      {
-        id: 1,
-        img: fiftyshades,
-        title: "Fifty Shades of Grey",
-        value: "Fifty Shades of Grey",
-        author: "E.L. James",
-        genre: "Erotica",
-        pages: 529,
-        year: "",
-      },
-      {
-        id: 2,
-        img: darker,
-        title: "Fifty Shades Darker",
-        value: "Fifty Shades Darker",
-        author: "E.L. James",
-        genre: "Erotica",
-        pages: 533,
-        year: "",
-      },
-      {
-        id: 3,
-        img: freed,
-        title: "Fifty Shades Freed",
-        value: "Fifty Shades Freed",
-        author: "E.L. James",
-        genre: "Erotica",
-        pages: 616,
-        year: "",
-      },
+    id: 96,
+    img: xoxo,
+    title: "XOXO",
+    value: "XOXO",
+    author: "Axie Oh",
+    genre: "Romance",
+    pages: 352,
+    rating: "",
+    year: "",
+  },
+  {
+    id: 97,
+    img: asap,
+    title: "ASAP",
+    value: "ASAP",
+    author: "Axie Oh",
+    genre: "Romance",
+    pages: "",
+    rating: "",
+    year: "",
+  },
+  {
+    id: 98,
+    img: girlbeneathsea,
+    title: "The Girl Who Fell Beneath the Sea",
+    value: "The Girl Who Fell Beneath the Sea",
+    author: "Axie Oh",
+    genre: "Fantasy",
+    pages: 336,
+    rating: "",
+    year: "",
+  },
     ],
     description:
-      "Provocative author, igniting passions with steamy tales of desire.",
+      "A celebrated author blending Korean mythology and enchanting storytelling into her young adult novels, bringing fantastical worlds and heartfelt characters to life.",
   },
   /*-------------------------- */
   /*                           */
