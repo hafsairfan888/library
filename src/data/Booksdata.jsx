@@ -94,9 +94,9 @@ import paper from "../assets/bookcovers/paper.jpg";
 import fault from "../assets/bookcovers/fault.jpg";
 import reasons from "../assets/bookcovers/13reasons.jpg";
 import monk from "../assets/bookcovers/monk.jpg";
-import xoxo from "../assets/bookcovers/XOXO.jpg";
-import asap from "../assets/bookcovers/ASAP.jpg";
-import girlbeneathsea from "../assets/bookcovers/TheGirlWhoFellBeneaththeSea.jpg";
+import xoxo from "../assets/bookcovers/xoxo.jpg";
+import asap from "../assets/bookcovers/asap.jpg";
+import thegirlwhofellbeneaththesea from "../assets/bookcovers/thegirlwhofellbeneaththesea.jpg";
 import brida from "../assets/bookcovers/brida.jpg";
 import alchemist from "../assets/bookcovers/alchemist.jpg";
 import eleven from "../assets/bookcovers/eleven.jpg";
@@ -1171,7 +1171,7 @@ export default [
     id: 96,
     img: xoxo,
     title: "XOXO",
-    value: "XOXO",
+    value: "xoxo",
     author: "Axie Oh",
     genre: "Romance",
     pages: 352,
@@ -1182,7 +1182,7 @@ export default [
     id: 97,
     img: asap,
     title: "ASAP",
-    value: "ASAP",
+    value: "asap",
     author: "Axie Oh",
     genre: "Romance",
     pages: "",
@@ -1191,9 +1191,9 @@ export default [
   },
   {
     id: 98,
-    img: girlbeneathsea,
+    img: thegirlwhofellbeneaththesea,
     title: "The Girl Who Fell Beneath the Sea",
-    value: "The Girl Who Fell Beneath the Sea",
+    value: "thegirlwhofellbeneaththesea",
     author: "Axie Oh",
     genre: "Fantasy",
     pages: 336,
