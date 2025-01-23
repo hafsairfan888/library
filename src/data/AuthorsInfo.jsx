@@ -14,7 +14,7 @@ import green from "../assets/authorimages/johngreen.jpg";
 import robin from "../assets/authorimages/rs.jpg";
 import randall from "../assets/authorimages/randall.webp";
 import hoover from "../assets/authorimages/Colleenhoover.webp";
-import axieoh from "../assets/authorimages/Axie Oh.jpg";
+import axieoh from "../assets/authorimages/axieoh.jpg";
 import paulo from "../assets/authorimages/paulo.jpg";
 import harper from "../assets/authorimages/harper.jpg";
 import hawking from "../assets/authorimages/hawking.jpg";
