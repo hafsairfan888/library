@@ -13,7 +13,7 @@ import green from "../assets/authorimages/johngreen.jpg";
 import robin from "../assets/authorimages/rs.jpg";
 import randall from "../assets/authorimages/randall.webp";
 import hoover from "../assets/authorimages/Colleenhoover.webp";
-import axieoh from "../assets/authorimages/Axie Oh.jpg";
+import axieoh from "../assets/authorimages/axieoh.jpg";
 import paulo from "../assets/authorimages/paulo.jpg";
 import harper from "../assets/authorimages/harper.jpg";
 import hawking from "../assets/authorimages/hawking.jpg";
@@ -49,9 +49,9 @@ import itstarts from "../assets/bookcovers/It starts with us.jpg";
 import itends from "../assets/bookcovers/it ends with us.jpg";
 import ugly from "../assets/bookcovers/ugly.jpg";
 import reminder from "../assets/bookcovers/reminders of him.jpg";
-import xoxo from "../assets/bookcovers/XOXO.jpg";
-import asap from "../assets/bookcovers/ASAP.jpg";
-import girlbeneathsea from "../assets/bookcovers/The Girl Who Fell Beneath the Sea.jpg";
+import xoxo from "../assets/bookcovers/xoxo.jpg";
+import asap from "../assets/bookcovers/asap.jpg";
+import thegirlwhofellbeneaththesea from "../assets/bookcovers/thegirlwhofellbeneaththesea.jpg";
 import macbeth from "../assets/bookcovers/macbeth.jpg";
 import romeo from "../assets/bookcovers/romeo.jpg";
 import midsummer from "../assets/bookcovers/midsummer.jpg";
@@ -1018,7 +1018,7 @@ const authorsData = [
     id: 96,
     img: xoxo,
     title: "XOXO",
-    value: "XOXO",
+    value: "xoxo",
     author: "Axie Oh",
     genre: "Romance",
     pages: 352,
@@ -1029,18 +1029,18 @@ const authorsData = [
     id: 97,
     img: asap,
     title: "ASAP",
-    value: "ASAP",
+    value: "asap",
     author: "Axie Oh",
     genre: "Romance",
-    pages: "",
+    pages: 352,
     rating: "",
     year: "",
   },
   {
     id: 98,
-    img: girlbeneathsea,
+    img: thegirlwhofellbeneaththesea,
     title: "The Girl Who Fell Beneath the Sea",
-    value: "The Girl Who Fell Beneath the Sea",
+    value: "thegirlwhofellbeneaththesea",
     author: "Axie Oh",
     genre: "Fantasy",
     pages: 336,
