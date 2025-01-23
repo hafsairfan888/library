@@ -94,9 +94,9 @@ import paper from "../assets/bookcovers/paper.jpg";
 import fault from "../assets/bookcovers/fault.jpg";
 import reasons from "../assets/bookcovers/13reasons.jpg";
 import monk from "../assets/bookcovers/monk.jpg";
-import fiftyshades from "../assets/bookcovers/fifty shades of grey.jpg";
-import darker from "../assets/bookcovers/Darker.jpg";
-import freed from "../assets/bookcovers/freed.jpg";
+import xoxo from "../assets/bookcovers/XOXO.jpg";
+import asap from "../assets/bookcovers/ASAP.jpg";
+import girlbeneathsea from "../assets/bookcovers/The Girl Who Fell Beneath the Sea.jpg";
 import brida from "../assets/bookcovers/brida.jpg";
 import alchemist from "../assets/bookcovers/alchemist.jpg";
 import eleven from "../assets/bookcovers/eleven.jpg";
@@ -1169,35 +1169,35 @@ export default [
   },
   {
     id: 96,
-    img: fiftyshades,
-    title: "Fifty Shades of Grey",
-    value: "Fifty Shades of Grey",
-    author:"E.L. James",
-    genre:"Erotica",
-    pages: 529,
-    rating:"",
+    img: xoxo,
+    title: "XOXO",
+    value: "XOXO",
+    author: "Axie Oh",
+    genre: "Romance",
+    pages: 352,
+    rating: "",
     year: "",
   },
   {
     id: 97,
-    img: darker,
-    title: "Fifty Shades Darker",
-    value: "Fifty Shades Darker",
-    author:"E.L. James",
-    genre:"Erotica",
-    pages: 533,
-    rating:"",
+    img: asap,
+    title: "ASAP",
+    value: "ASAP",
+    author: "Axie Oh",
+    genre: "Romance",
+    pages: "",
+    rating: "",
     year: "",
   },
   {
     id: 98,
-    img: freed,
-    title: "Fifty Shades Freed",
-    value: "Fifty Shades Freed",
-    author:"E.L. James",
-    genre:"Erotica",
-    pages: 616,
-    rating:"",
+    img: girlbeneathsea,
+    title: "The Girl Who Fell Beneath the Sea",
+    value: "The Girl Who Fell Beneath the Sea",
+    author: "Axie Oh",
+    genre: "Fantasy",
+    pages: 336,
+    rating: "",
     year: "",
   },
   {
