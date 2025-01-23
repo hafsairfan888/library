@@ -27,7 +27,7 @@ export default function Footer() {
         </a>
         <div className="footer-divider"></div>
         <a 
-          href="https://github.com/hafsairfan888/library"
+          href="https://habibschools.edu.pk/hgs/"
           target="_blank"
           rel="noopener noreferrer"
           >
