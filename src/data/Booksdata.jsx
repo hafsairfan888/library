@@ -95,7 +95,7 @@ import fault from "../assets/bookcovers/fault.jpg";
 import reasons from "../assets/bookcovers/13reasons.jpg";
 import monk from "../assets/bookcovers/monk.jpg";
 import xoxo from "../assets/bookcovers/xoxo.jpg";
-import asap from "../assets/bookcovers/asap.jpg";
+import asap from "../assets/bookcovers/asap.png";
 import thegirlwhofellbeneaththesea from "../assets/bookcovers/thegirlwhofellbeneaththesea.jpg";
 import brida from "../assets/bookcovers/brida.jpg";
 import alchemist from "../assets/bookcovers/alchemist.jpg";
