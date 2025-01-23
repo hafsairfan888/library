@@ -35,7 +35,7 @@ export default function Navigation() {
             <Link to="/quotes">QUOTES</Link>
           </li>
           <li>
-            <Link to="file:///C:/Users/Mustafa/AppData/Local/Temp/Rar$EXa18584.47026/templatemo_586_scholar/edu.html">↩ BACK TO LMS</Link>
+            <Link to="https://habibschools.edu.pk/hgs/">↩ BACK TO LMS</Link>
           </li>
           </ul>
       </div>
